@@ -56,11 +56,13 @@ With advancements in Artificial Intelligence (AI) and Machine Learning (ML), tec
 ```
 
 ## Playing Guide
-
+ <p align="justify">
+   Helps farmers predict and prevent diseases based on climatic conditions.
+  </p>
   <table align="center" style="margin: 0px auto;">
     <tr>
       <td>
-        <img  src="assets\images\weather.jpg" width="800" ></img>
+        <img  src="screenshots\weather.png" width="800" ></img>
       </td>
     </tr>
   </table>
@@ -69,13 +71,7 @@ With advancements in Artificial Intelligence (AI) and Machine Learning (ML), tec
    Helps farmers predict and prevent diseases based on climatic conditions.
   </p>
 
-1. Dark/Light mode switch
-2. Sample image of a sorted board
-3. Total number of 'Moves'
-4. 'Reset' button
-5. Dropdown menu for 'Mute' & and 'Info' functionality
-6. Animated 'Dash'. Click it for the magic!
-7. Timer
+
 
 <p align="Center">
     <a href="https://md-siam.github.io/puzzle_hack/" target="_blank"><img src="screenshots/images/PlayNow.png"/></a>
@@ -98,10 +94,10 @@ With advancements in Artificial Intelligence (AI) and Machine Learning (ML), tec
   <br>
 <table align="center" style="margin: 0px auto;">
   <tr>
-    <th>Google Chrome</th>
+    <th>Notification</th>
   </tr>
   <tr>
-    <td><img align="right" src="screenshots/gifs/google_chrome.gif"></img></td>
+    <td><img align="right" src="screenshots\notification.png"></img></td>
   </tr>
   </table>
   
