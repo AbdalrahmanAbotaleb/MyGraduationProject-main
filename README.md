@@ -70,28 +70,7 @@ With advancements in Artificial Intelligence (AI) and Machine Learning (ML), tec
   <p align="justify">
    Helps farmers predict and prevent diseases based on climatic conditions.
   </p>
-
-
-
-<p align="Center">
-    <a href="https://md-siam.github.io/puzzle_hack/" target="_blank"><img src="screenshots/images/PlayNow.png"/></a>
-</p>
-<p align="Center">
-    <a href="https://md-siam.github.io/puzzle_hack/" target="_blank"><img src="screenshots/images/PlayNow.png"/></a>
-</p>
-## Puzzle Hack Demo
-
-<table align="center" style="margin: 0px auto;">
-  <tr>
-    <th>Light Mode (iPhone 8 Simulator)</th>
-    <th>Dark Mode (iPhone 8 Simulator)</th>
-  </tr>
-  <tr>
-    <td><img align="right" src="screenshots/gifs/lightMode.gif" height="500"></img></td>
-    <td><img align="right" src="screenshots/gifs/darkMode.gif" height="500"></img></td>
-  </tr>
-  </table>
-  <br>
+<br>
 <table align="center" style="margin: 0px auto;">
   <tr>
     <th>Notification</th>
