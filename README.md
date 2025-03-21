@@ -12,23 +12,47 @@
 <img align="right" src="assets/images/icons/playstore.png" height="190"></img>
 
 <p align="justify">
-  This game is for the "Flutter Puzzle Hack" contest, 2022. It is a simple slide puzzle game, where the player has to arrange the squares into sorted order. This game is built using the Flutter framework, which is a cross-platform framework for developing apps for multiple devices.
-  Right now, this app has been tested on iOS, Android, and Google Chrome browsers.
+  Agriculture is the backbone of human civilization, providing food and resources for billions of people worldwide. However, plant diseases pose a significant challenge, reducing crop yields and causing substantial economic losses. Traditional disease detection methods rely on manual inspection, which is often time-consuming and requires expert knowledge.
+
+With advancements in Artificial Intelligence (AI) and Machine Learning (ML), technology is now playing a crucial role in solving this problem. One of the most promising innovations is AI-powered plant disease detection applications, which use image recognition and real-time data analysis to diagnose plant diseases instantly.
 </p>
 <p align="justify">
-  In addition, it is using some other third-party packages from the open-source community. Thanks to those open-source developers for their amazing packages. Those packages are: 
+  <b>"Plant Disease Detection"</b> is an AI-powered mobile application built using <b>Flutter</b> and <b>Machine Learning</b>. 
+  It helps farmers and plant enthusiasts detect plant diseases by analyzing captured images and providing possible solutions.
+</p>
+<p align="justify">
+  ✨ Key Features
+✅ AI-based Image Analysis 📸
+✅ Disease Diagnosis with Suggested Solutions 🌱
+✅ Live Camera & Gallery Upload Support 🎥
+✅ Weather Integration for Better Insights ⛅
+✅ Expert Chatbot for Instant Assistance 🤖
+✅ Latest News & Updates on Agriculture 📰
+✅ User-friendly & Responsive UI 🎨
 </p>
 
+
 ```yaml
-  audioplayers: ^0.20.1          // for playing sound
-  clay_containers: ^0.3.2        // for neumorphic design
-  day_night_switcher: ^0.2.0+1   // for animated switch
-  font_awesome_flutter: ^9.2.0   // for icons
-  google_fonts: ^2.3.1           // for fonts
-  provider: ^6.0.2               // for app state-management
-  responsive_framework: ^0.1.7   // for responsive UI
-  responsive_sizer: ^3.0.5+1     // for responsive container
-  rive: ^0.8.1                   // for controlling rive animation file
+  cupertino_icons: ^1.0.6
+  get: ^4.6.6
+  gradient_borders: ^1.0.0
+  google_generative_ai: ^0.2.2
+  file_picker: ^8.0.0+1
+  image_picker: ^0.8.9
+  google_fonts: ^6.2.1
+  flutter_tflite: ^1.0.1
+  http: ^1.2.1
+  shared_preferences: ^2.2.3
+  shimmer: ^3.0.0
+  interpolate_animated: ^0.0.1
+  intl: ^0.19.0
+  dio:
+  lottie:
+  animate_do:
+  connectivity_plus: ^2.3.0
+  carousel_slider: ^4.2.1
+  flutter_local_notifications: ^17.1.2
+  weather_icons: ^3.0.0
 ```
 
 ## Playing Guide
@@ -36,13 +60,13 @@
   <table align="center" style="margin: 0px auto;">
     <tr>
       <td>
-        <img  src="screenshots/images/appintro_half.png" width="800" ></img>
+        <img  src="assets\images\weather.jpg" width="800" ></img>
       </td>
     </tr>
   </table>
 
   <p align="justify">
-   The above picture is showing the "Puzzle Hack" game running on an android device. It's also presenting all the functionality of the game. Like: 
+   Helps farmers predict and prevent diseases based on climatic conditions.
   </p>
 
 1. Dark/Light mode switch
@@ -80,4 +104,5 @@
     <td><img align="right" src="screenshots/gifs/google_chrome.gif"></img></td>
   </tr>
   </table>
+  
 
