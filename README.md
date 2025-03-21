@@ -66,8 +66,7 @@ With advancements in Artificial Intelligence (AI) and Machine Learning (ML), tec
       </td>
     </tr>
   </table>
-
-  <p align="justify">
+<p align="justify">
    Helps farmers predict and prevent diseases based on climatic conditions.
   </p>
 <br>
@@ -77,6 +76,18 @@ With advancements in Artificial Intelligence (AI) and Machine Learning (ML), tec
   </tr>
   <tr>
     <td><img align="right" src="screenshots\notification.png" height="500"></img></td>
+  </tr>
+  </table>
+  <p align="justify">
+   Shimmer Lodaing
+  </p>
+<br>
+<table align="center" style="margin: 0px auto;">
+  <tr>
+    <th>News Pgae</th>
+  </tr>
+  <tr>
+    <td><img align="right" src="screenshots\shimmerloading.png" height="500"></img></td>
   </tr>
   </table>
   
