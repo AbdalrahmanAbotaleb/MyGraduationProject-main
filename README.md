@@ -97,7 +97,7 @@ With advancements in Artificial Intelligence (AI) and Machine Learning (ML), tec
     <th>Notification</th>
   </tr>
   <tr>
-    <td><img align="right" src="screenshots\notification.png"></img></td>
+    <td><img align="right" src="screenshots\notification.png" height="500"></img></td>
   </tr>
   </table>
   
